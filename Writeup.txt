@@ -1,0 +1,12 @@
+
+** The Model
+
+
+
+
+
+**Timstep & Elasped Duration ( N , dt)
+
+**Polynomial fitting & MPC preprocessing
+
+**MPC with Latency
